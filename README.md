@@ -1,6 +1,6 @@
-![kaiwenc3 — Unlimited Blade Works](banner-animated.svg)
+![kaiwenc3 — Unlimited Blade Works](banner-ribbon.svg)
 
-**UChicago MSCS student · UIUC alum · Focused on AI infrastructure and AI agents.**
+![UChicago MSCS student, UIUC alum, focused on AI infrastructure and AI agents](bio.svg)
 
 [LinkedIn](https://www.linkedin.com/in/kaiwen-chenc3/) · [Email](mailto:dayueliangbm@outlook.com)
 
