@@ -6,6 +6,8 @@
 
 ## Contribution stats
 
+![Public contribution calendar with an animated sword glint and embers](contributions.svg)
+
 ![GitHub total contributions, current streak, and longest streak](https://streak-stats.demolab.com/?user=kaiwenc3&background=211A1A&border=69412F&stroke=69412F&ring=FF842E&fire=FFB260&currStreakNum=FFF0D6&sideNums=FFF0D6&currStreakLabel=FFAB65&sideLabels=FFF0D6&dates=D6AD98&card_width=720&disable_animations=true)
 
 ## Selected projects
