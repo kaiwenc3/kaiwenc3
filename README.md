@@ -1,4 +1,4 @@
-![kaiwenc3 — Unlimited Blade Works](banner.png)
+![kaiwenc3 — Unlimited Blade Works](banner-animated.svg)
 
 **UChicago MSCS student · UIUC alum · Focused on AI infrastructure and AI agents.**
 
